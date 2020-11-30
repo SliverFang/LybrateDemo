@@ -1,0 +1,19 @@
+<resources>
+
+    <style name="TextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="boxStrokeColor">#fff</item>
+        <item name="boxStrokeWidth">2dp</item>
+    </style>
+
+
+    <style name="FullScreenVioletTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/baseRed</item>
+        <item name="colorPrimaryDark">@color/baseRed</item>
+        <item name="colorAccent">@color/baseRed</item>
+        <item name="android:textColor">@color/colorTextColorPrimaryViolet</item>
+        <item name="android:textColorSecondary">@color/colorTextColorSecondaryViolet</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+
+</resources>

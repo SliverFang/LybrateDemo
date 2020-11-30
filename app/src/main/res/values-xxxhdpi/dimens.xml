@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<dimen name="card_margin">12dp</dimen>
+<dimen name="card_corner_radius">10dp</dimen>
+<dimen name="card_elevation">8dp</dimen>
+<dimen name="secondary_image_size">20dp</dimen>
+<dimen name="small_text_size">13sp</dimen>
+<dimen name="medium_text_size">15sp</dimen>
+<dimen name="large_text_size">18sp</dimen>
+<dimen name="normal_card_elevation">8dp</dimen>
+<dimen name="prority_card_elevation">10dp</dimen>
+<dimen name="title_text_size">19sp</dimen>
+<dimen name="primary_image_size">35dp</dimen>
+<dimen name="tertiary_image_size">40dp</dimen>
+    <dimen name="small_margin">10dp</dimen>
+    <dimen name="medium_margin">20dp</dimen>
+    <dimen name="large_margin">30dp</dimen>
+
+    <dimen name="design_bottom_navigation_text_size" tools:override="true">12sp</dimen>
+    <dimen name="design_bottom_navigation_active_text_size" tools:override="true">12sp</dimen>
+    <dimen name="logo_size">150dp</dimen>
+</resources>
